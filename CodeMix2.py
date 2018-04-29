@@ -4,7 +4,7 @@ import spacy
 from googletrans import Translator
 
 nlp = spacy.load('en')
-THRESHHOLD = 5
+THRESHHOLD = 7
 translator = Translator()
 Prohibited_tag = ['VBZ','IN']
 Prohibited_dep = ['aux','prep']
@@ -35,32 +35,21 @@ def select_replace(sentences,base_sent,sub,rec,st=0):
 def codeMixSentence(src_sentence,base,mix_lang):
     '''Generate multiple codeMix sentence based on heuristics
     '''
-    base_src_sentence = translator.translate(src_sentence, src='en', dest=base).text
+    #base_src_sentence = translator.translate(src_sentence, src='en', dest=base).text
     #base_src_sentence = base_src_sentence_trans[0].text
     tmp_tokens = nlp(unicode(src_sentence))
     src_tokens = []
     for token in tmp_tokens:
         # Write logic for allowing token to replace in base sentence.
         if token.tag_ not in Prohibited_tag and token.dep_ not in Prohibited_dep and token.pos_ not in Prohibited_pos:
-            src_tokens.append(token)
+            src_tokens.append(token.text)
     print 'src_token:',src_tokens
-    base_tokens = base_src_sentence.split()
     sub = {}
-    print 'base_token:', base_tokens
-    translations = translator.translate(base_tokens, src=base, dest=mix_lang)
+    translations = translator.translate(src_tokens, src=base, dest=mix_lang)
     for translation in translations:
-        print(translation.origin, ' -> ', translation.text)
-        trans_tokens = nlp(unicode(translation.text))
-        print 'translates lemma_',trans_tokens[0].lemma_
-        for token in src_tokens:
-            print 'token lemma_',token.lemma_
-            if token.lemma_ == trans_tokens[0].lemma_:
-                sub[translation.origin] = token.text
-                print 'subs:',translation.origin,token.text
-                src_tokens.remove(token)
-                break
+        sub[translation.origin]=translation.text
     final_sent = []
-    select_replace(final_sent,base_src_sentence,sub,min(THRESHHOLD,len(sub)),0)
+    select_replace(final_sent,src_sentence,sub,min(THRESHHOLD,len(sub)),0)
     return final_sent
 
 def writeSentences(output_file,src_sent,codeMix_sents):
