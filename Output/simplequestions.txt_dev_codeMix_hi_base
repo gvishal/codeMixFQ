@@ -1,0 +1,515 @@
+
+src: who produced angel puss
+ code-mix sentences:
+who परी पुस का उत्पादन किया
+
+src: in which country was sherlock holmes filmed
+ code-mix sentences:
+किस country में शेरलॉक होम्स फिल्माया गया था
+किस country में sherlock होम्स फिल्माया गया था
+किस country में sherlock holmes फिल्माया गया था
+किस country में sherlock holmes filmed गया था
+किस country में sherlock holmes filmed गया was
+किस country में sherlock holmes फिल्माया गया was
+किस country में sherlock होम्स filmed गया था
+किस country में sherlock होम्स filmed गया was
+किस country में sherlock होम्स फिल्माया गया was
+किस country में शेरलॉक holmes फिल्माया गया था
+किस country में शेरलॉक holmes filmed गया था
+किस country में शेरलॉक holmes filmed गया was
+किस country में शेरलॉक holmes फिल्माया गया was
+किस country में शेरलॉक होम्स filmed गया था
+किस country में शेरलॉक होम्स filmed गया was
+किस country में शेरलॉक होम्स फिल्माया गया was
+किस देश में sherlock होम्स फिल्माया गया था
+किस देश में sherlock holmes फिल्माया गया था
+किस देश में sherlock holmes filmed गया था
+किस देश में sherlock holmes filmed गया was
+किस देश में sherlock holmes फिल्माया गया was
+किस देश में sherlock होम्स filmed गया था
+किस देश में sherlock होम्स filmed गया was
+किस देश में sherlock होम्स फिल्माया गया was
+किस देश में शेरलॉक holmes फिल्माया गया था
+किस देश में शेरलॉक holmes filmed गया था
+किस देश में शेरलॉक holmes filmed गया was
+किस देश में शेरलॉक holmes फिल्माया गया was
+किस देश में शेरलॉक होम्स filmed गया था
+किस देश में शेरलॉक होम्स filmed गया was
+किस देश में शेरलॉक होम्स फिल्माया गया was
+
+src: what country is the movie shanghai mystery based in
+ code-mix sentences:
+फिल्म shanghai रहस्य किस देश में आधारित है
+फिल्म shanghai mystery किस देश में आधारित है
+फिल्म shanghai mystery किस country में आधारित है
+फिल्म shanghai mystery किस country में based है
+फिल्म shanghai mystery किस देश में based है
+फिल्म shanghai रहस्य किस country में आधारित है
+फिल्म shanghai रहस्य किस country में based है
+फिल्म shanghai रहस्य किस देश में based है
+फिल्म शंघाई mystery किस देश में आधारित है
+फिल्म शंघाई mystery किस country में आधारित है
+फिल्म शंघाई mystery किस country में based है
+फिल्म शंघाई mystery किस देश में based है
+फिल्म शंघाई रहस्य किस country में आधारित है
+फिल्म शंघाई रहस्य किस country में based है
+फिल्म शंघाई रहस्य किस देश में based है
+
+src: what is the name of a drug
+ code-mix sentences:
+एक दवा का name क्या है
+एक दवा का name what है
+एक दवा का नाम what है
+
+src: where did stella sigcau bite the dust
+ code-mix sentences:
+stella सिगको ने धूल काटने कहाँ किया था
+stella सिगको ने dust काटने कहाँ किया था
+stella सिगको ने dust काटने where किया था
+stella सिगको ने धूल काटने where किया था
+स्टेला सिगको ने dust काटने कहाँ किया था
+स्टेला सिगको ने dust काटने where किया था
+स्टेला सिगको ने धूल काटने where किया था
+
+src: who is a defender in football
+ code-mix sentences:
+football में एक डिफेंडर कौन है
+football में एक defender कौन है
+football में एक defender who है
+football में एक डिफेंडर who है
+फुटबॉल में एक defender कौन है
+फुटबॉल में एक defender who है
+फुटबॉल में एक डिफेंडर who है
+
+src: which country does phobia come from
+ code-mix sentences:
+कौन सा country भय से आता है
+कौन सा country भय से come है
+कौन सा देश भय से come है
+
+src: who owns the south sydney rabbitohs
+ code-mix sentences:
+जो south सिडनी खरगोशों का मालिक है
+जो south sydney खरगोशों का मालिक है
+जो south sydney the का मालिक है
+जो south सिडनी the का मालिक है
+जो दक्षिण sydney खरगोशों का मालिक है
+जो दक्षिण sydney the का मालिक है
+जो दक्षिण सिडनी the का मालिक है
+
+src: what genre would best describe manor houses of england
+ code-mix sentences:
+कौन सी शैली england के मनोर घरों का सबसे अच्छा वर्णन करेगी
+कौन सी शैली england के manor घरों का सबसे अच्छा वर्णन करेगी
+कौन सी शैली इंग्लैंड के manor घरों का सबसे अच्छा वर्णन करेगी
+
+src: where is npr: wait wait... don't tell me! podcast broadcasted?
+ code-mix sentences:
+npr कहां है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+npr where है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+npr where है: wait करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+npr where है: wait करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+npr where है: wait करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+npr where है: wait करें ... मुझे मत बताओ! podcast प्रसारित?
+npr where है: wait करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+npr where है: wait करें ... me मत tell पॉडकास्ट प्रसारित?
+npr where है: wait करें ... me मत बताओ! podcast प्रसारित?
+npr where है: wait करें ... me मत बताओ! पॉडकास्ट broadcasted
+npr where है: wait करें ... मुझे मत tell podcast प्रसारित?
+npr where है: wait करें ... मुझे मत tell पॉडकास्ट broadcasted
+npr where है: wait करें ... मुझे मत बताओ! podcast broadcasted
+npr where है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+npr where है: प्रतीक्षा करें ... me मत tell पॉडकास्ट प्रसारित?
+npr where है: प्रतीक्षा करें ... me मत बताओ! podcast प्रसारित?
+npr where है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट broadcasted
+npr where है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+npr where है: प्रतीक्षा करें ... मुझे मत tell podcast प्रसारित?
+npr where है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट broadcasted
+npr where है: प्रतीक्षा करें ... मुझे मत बताओ! podcast प्रसारित?
+npr where है: प्रतीक्षा करें ... मुझे मत बताओ! podcast broadcasted
+npr where है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+npr where है: प्रतीक्षा करें ... me मत tell podcast प्रसारित?
+npr where है: प्रतीक्षा करें ... me मत tell पॉडकास्ट broadcasted
+npr where है: प्रतीक्षा करें ... me मत बताओ! podcast broadcasted
+npr where है: प्रतीक्षा करें ... मुझे मत tell podcast broadcasted
+npr कहां है: wait करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+npr कहां है: wait करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+npr कहां है: wait करें ... me मत tell पॉडकास्ट प्रसारित?
+npr कहां है: wait करें ... me मत बताओ! podcast प्रसारित?
+npr कहां है: wait करें ... me मत बताओ! पॉडकास्ट broadcasted
+npr कहां है: wait करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+npr कहां है: wait करें ... मुझे मत tell podcast प्रसारित?
+npr कहां है: wait करें ... मुझे मत tell पॉडकास्ट broadcasted
+npr कहां है: wait करें ... मुझे मत बताओ! podcast प्रसारित?
+npr कहां है: wait करें ... मुझे मत बताओ! podcast broadcasted
+npr कहां है: wait करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+npr कहां है: wait करें ... me मत tell podcast प्रसारित?
+npr कहां है: wait करें ... me मत tell पॉडकास्ट broadcasted
+npr कहां है: wait करें ... me मत बताओ! podcast broadcasted
+npr कहां है: wait करें ... मुझे मत tell podcast broadcasted
+npr कहां है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+npr कहां है: प्रतीक्षा करें ... me मत tell पॉडकास्ट प्रसारित?
+npr कहां है: प्रतीक्षा करें ... me मत tell podcast प्रसारित?
+npr कहां है: प्रतीक्षा करें ... me मत tell पॉडकास्ट broadcasted
+npr कहां है: प्रतीक्षा करें ... me मत बताओ! podcast प्रसारित?
+npr कहां है: प्रतीक्षा करें ... me मत बताओ! podcast broadcasted
+npr कहां है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट broadcasted
+npr कहां है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+npr कहां है: प्रतीक्षा करें ... मुझे मत tell podcast प्रसारित?
+npr कहां है: प्रतीक्षा करें ... मुझे मत tell podcast broadcasted
+npr कहां है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट broadcasted
+npr कहां है: प्रतीक्षा करें ... मुझे मत बताओ! podcast प्रसारित?
+npr कहां है: प्रतीक्षा करें ... मुझे मत बताओ! podcast broadcasted
+npr कहां है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+npr कहां है: प्रतीक्षा करें ... me मत tell podcast broadcasted
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर where है: wait करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर where है: wait करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर where है: wait करें ... me मत tell पॉडकास्ट प्रसारित?
+एनपीआर where है: wait करें ... me मत बताओ! podcast प्रसारित?
+एनपीआर where है: wait करें ... me मत बताओ! पॉडकास्ट broadcasted
+एनपीआर where है: wait करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+एनपीआर where है: wait करें ... मुझे मत tell podcast प्रसारित?
+एनपीआर where है: wait करें ... मुझे मत tell पॉडकास्ट broadcasted
+एनपीआर where है: wait करें ... मुझे मत बताओ! podcast प्रसारित?
+एनपीआर where है: wait करें ... मुझे मत बताओ! podcast broadcasted
+एनपीआर where है: wait करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+एनपीआर where है: wait करें ... me मत tell podcast प्रसारित?
+एनपीआर where है: wait करें ... me मत tell पॉडकास्ट broadcasted
+एनपीआर where है: wait करें ... me मत बताओ! podcast broadcasted
+एनपीआर where है: wait करें ... मुझे मत tell podcast broadcasted
+एनपीआर where है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... me मत tell पॉडकास्ट प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... me मत tell podcast प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... me मत tell पॉडकास्ट broadcasted
+एनपीआर where है: प्रतीक्षा करें ... me मत बताओ! podcast प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... me मत बताओ! podcast broadcasted
+एनपीआर where है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट broadcasted
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत tell podcast प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत tell podcast broadcasted
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट broadcasted
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत बताओ! podcast प्रसारित?
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत बताओ! podcast broadcasted
+एनपीआर where है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+एनपीआर where है: प्रतीक्षा करें ... me मत tell podcast broadcasted
+एनपीआर कहां है: wait करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर कहां है: wait करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर कहां है: wait करें ... me मत tell पॉडकास्ट प्रसारित?
+एनपीआर कहां है: wait करें ... me मत tell podcast प्रसारित?
+एनपीआर कहां है: wait करें ... me मत tell पॉडकास्ट broadcasted
+एनपीआर कहां है: wait करें ... me मत बताओ! podcast प्रसारित?
+एनपीआर कहां है: wait करें ... me मत बताओ! podcast broadcasted
+एनपीआर कहां है: wait करें ... me मत बताओ! पॉडकास्ट broadcasted
+एनपीआर कहां है: wait करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+एनपीआर कहां है: wait करें ... मुझे मत tell podcast प्रसारित?
+एनपीआर कहां है: wait करें ... मुझे मत tell podcast broadcasted
+एनपीआर कहां है: wait करें ... मुझे मत tell पॉडकास्ट broadcasted
+एनपीआर कहां है: wait करें ... मुझे मत बताओ! podcast प्रसारित?
+एनपीआर कहां है: wait करें ... मुझे मत बताओ! podcast broadcasted
+एनपीआर कहां है: wait करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+एनपीआर कहां है: wait करें ... me मत tell podcast broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... me मत tell पॉडकास्ट प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... me मत tell podcast प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... me मत tell podcast broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... me मत tell पॉडकास्ट broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... me मत बताओ! podcast प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... me मत बताओ! podcast broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... me मत बताओ! पॉडकास्ट broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत tell podcast प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत tell podcast broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत tell पॉडकास्ट broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत बताओ! podcast प्रसारित?
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत बताओ! podcast broadcasted
+एनपीआर कहां है: प्रतीक्षा करें ... मुझे मत बताओ! पॉडकास्ट broadcasted
+
+src: who was the lyricist for  hey you
+ code-mix sentences:
+हे के लिए lyricist कौन था
+हे के लिए lyricist who था
+हे के लिए lyricist who was
+हे के लिए lyricist कौन was
+हे के लिए गीतकार who था
+हे के लिए गीतकार who was
+हे के लिए गीतकार कौन was
+
+src: who is a pop music artist?
+ code-mix sentences:
+एक pop संगीत कलाकार कौन है?
+एक pop music कलाकार कौन है?
+एक pop music कलाकार who है?
+एक pop संगीत कलाकार who है?
+एक पॉप music कलाकार कौन है?
+एक पॉप music कलाकार who है?
+एक पॉप संगीत कलाकार who है?
+
+src: who was the composer of the song all blues
+ code-mix sentences:
+all ब्लूज़ गीत के संगीतकार कौन थे
+all blues गीत के संगीतकार कौन थे
+all blues song के संगीतकार कौन थे
+all blues song के the कौन थे
+all blues song के the who थे
+all blues song के the कौन was
+all blues song के संगीतकार who थे
+all blues song के संगीतकार who was
+all blues song के संगीतकार कौन was
+all blues गीत के the कौन थे
+all blues गीत के the who थे
+all blues गीत के the who was
+all blues गीत के the कौन was
+all blues गीत के संगीतकार who थे
+all blues गीत के संगीतकार who was
+all blues गीत के संगीतकार कौन was
+all ब्लूज़ song के संगीतकार कौन थे
+all ब्लूज़ song के the कौन थे
+all ब्लूज़ song के the who थे
+all ब्लूज़ song के the who was
+all ब्लूज़ song के the कौन was
+all ब्लूज़ song के संगीतकार who थे
+all ब्लूज़ song के संगीतकार who was
+all ब्लूज़ song के संगीतकार कौन was
+all ब्लूज़ गीत के the कौन थे
+all ब्लूज़ गीत के the who थे
+all ब्लूज़ गीत के the who was
+all ब्लूज़ गीत के the कौन was
+all ब्लूज़ गीत के संगीतकार who थे
+all ब्लूज़ गीत के संगीतकार who was
+all ब्लूज़ गीत के संगीतकार कौन was
+सभी blues गीत के संगीतकार कौन थे
+सभी blues song के संगीतकार कौन थे
+सभी blues song के the कौन थे
+सभी blues song के the who थे
+सभी blues song के the who was
+सभी blues song के the कौन was
+सभी blues song के संगीतकार who थे
+सभी blues song के संगीतकार who was
+सभी blues song के संगीतकार कौन was
+सभी blues गीत के the कौन थे
+सभी blues गीत के the who थे
+सभी blues गीत के the who was
+सभी blues गीत के the कौन was
+सभी blues गीत के संगीतकार who थे
+सभी blues गीत के संगीतकार who was
+सभी blues गीत के संगीतकार कौन was
+सभी ब्लूज़ song के संगीतकार कौन थे
+सभी ब्लूज़ song के the कौन थे
+सभी ब्लूज़ song के the who थे
+सभी ब्लूज़ song के the who was
+सभी ब्लूज़ song के the कौन was
+सभी ब्लूज़ song के संगीतकार who थे
+सभी ब्लूज़ song के संगीतकार who was
+सभी ब्लूज़ song के संगीतकार कौन was
+सभी ब्लूज़ गीत के the कौन थे
+सभी ब्लूज़ गीत के the who थे
+सभी ब्लूज़ गीत के the who was
+सभी ब्लूज़ गीत के the कौन was
+सभी ब्लूज़ गीत के संगीतकार who थे
+सभी ब्लूज़ गीत के संगीतकार who was
+सभी ब्लूज़ गीत के संगीतकार कौन was
+
+src: which artist recorded the album fun with knives?
+ code-mix sentences:
+किस the ने चाकू के साथ एल्बम मज़ा रिकॉर्ड किया?
+किस the ने knives के साथ एल्बम मज़ा रिकॉर्ड किया?
+किस कलाकार ने knives के साथ एल्बम मज़ा रिकॉर्ड किया?
+
+src: where did johnny doyle die
+ code-mix sentences:
+johnny डोइल कहाँ मर गया
+johnny doyle कहाँ मर गया
+johnny doyle where मर गया
+johnny doyle where die गया
+johnny doyle कहाँ die गया
+johnny डोइल where मर गया
+johnny डोइल where die गया
+johnny डोइल कहाँ die गया
+जॉनी doyle कहाँ मर गया
+जॉनी doyle where मर गया
+जॉनी doyle where die गया
+जॉनी doyle कहाँ die गया
+जॉनी डोइल where मर गया
+जॉनी डोइल where die गया
+जॉनी डोइल कहाँ die गया
+
+src: which group recorded gish
+ code-mix sentences:
+किस group ने गिश दर्ज की
+किस group ने gish दर्ज की
+किस समूह ने gish दर्ज की
+
+src: what is the name of a blues-rock album
+ code-mix sentences:
+blues एल्बम का नाम क्या है
+blues the का नाम क्या है
+blues the का name क्या है
+blues the का name what है
+blues the का नाम what है
+blues एल्बम का name क्या है
+blues एल्बम का name what है
+blues एल्बम का नाम what है
+ब्लूज़-रॉक the का नाम क्या है
+ब्लूज़-रॉक the का name क्या है
+ब्लूज़-रॉक the का name what है
+ब्लूज़-रॉक the का नाम what है
+ब्लूज़-रॉक एल्बम का name क्या है
+ब्लूज़-रॉक एल्बम का name what है
+ब्लूज़-रॉक एल्बम का नाम what है
+
+src: what was eclipse
+ code-mix sentences:
+eclipse क्या था
+eclipse what था
+eclipse what was
+eclipse क्या was
+ग्रहण what था
+ग्रहण what was
+ग्रहण क्या was
+
+src: what is walther heissig known for
+ code-mix sentences:
+
+src: what state is worland located in
+ code-mix sentences:
+किस state में स्थित वर्डलैंड है
+किस state में located वर्डलैंड है
+किस राज्य में located वर्डलैंड है
+
+src: what kind of film is the wedding party
+ code-mix sentences:
+wedding की पार्टी किस तरह की फिल्म है
+wedding की party किस तरह की फिल्म है
+wedding की party किस kind की फिल्म है
+wedding की party किस kind की film है
+wedding की party किस तरह की film है
+wedding की पार्टी किस kind की फिल्म है
+wedding की पार्टी किस kind की film है
+wedding की पार्टी किस तरह की film है
+शादी की party किस तरह की फिल्म है
+शादी की party किस kind की फिल्म है
+शादी की party किस kind की film है
+शादी की party किस तरह की film है
+शादी की पार्टी किस kind की फिल्म है
+शादी की पार्टी किस kind की film है
+शादी की पार्टी किस तरह की film है
+
+src: what's an example of an album
+ code-mix sentences:
+एक एल्बम का example क्या है
+एक एल्बम का example what है
+एक एल्बम का उदाहरण what है
+
+src: who was the ruler of the bahamas?
+ code-mix sentences:
+the के शासक कौन थे?
+the के the कौन थे?
+the के the who थे?
+the के the who was
+the के the कौन was
+the के शासक who थे?
+the के शासक who was
+the के शासक कौन was
+बहामा के the कौन थे?
+बहामा के the who थे?
+बहामा के the who was
+बहामा के the कौन was
+बहामा के शासक who थे?
+बहामा के शासक who was
+बहामा के शासक कौन was
+
+src: what is the release type of the album wake?
+ code-mix sentences:
+the जागने का रिलीज प्रकार क्या है?
+the wake का रिलीज प्रकार क्या है?
+the wake का release प्रकार क्या है?
+the wake का release type क्या है?
+the wake का release type what है?
+the wake का release प्रकार what है?
+the wake का रिलीज type क्या है?
+the wake का रिलीज type what है?
+the wake का रिलीज प्रकार what है?
+the जागने का release प्रकार क्या है?
+the जागने का release type क्या है?
+the जागने का release type what है?
+the जागने का release प्रकार what है?
+the जागने का रिलीज type क्या है?
+the जागने का रिलीज type what है?
+the जागने का रिलीज प्रकार what है?
+एल्बम wake का रिलीज प्रकार क्या है?
+एल्बम wake का release प्रकार क्या है?
+एल्बम wake का release type क्या है?
+एल्बम wake का release type what है?
+एल्बम wake का release प्रकार what है?
+एल्बम wake का रिलीज type क्या है?
+एल्बम wake का रिलीज type what है?
+एल्बम wake का रिलीज प्रकार what है?
+एल्बम जागने का release प्रकार क्या है?
+एल्बम जागने का release type क्या है?
+एल्बम जागने का release type what है?
+एल्बम जागने का release प्रकार what है?
+एल्बम जागने का रिलीज type क्या है?
+एल्बम जागने का रिलीज type what है?
+एल्बम जागने का रिलीज प्रकार what है?
+
+src: which event was part of winter war
+ code-mix sentences:
+कौन सा कार्यक्रम शीतकालीन war का हिस्सा था
+कौन सा कार्यक्रम शीतकालीन war का part था
+कौन सा कार्यक्रम शीतकालीन war का part was
+कौन सा कार्यक्रम शीतकालीन war का हिस्सा was
+कौन सा कार्यक्रम शीतकालीन युद्ध का part था
+कौन सा कार्यक्रम शीतकालीन युद्ध का part was
+कौन सा कार्यक्रम शीतकालीन युद्ध का हिस्सा was
+
+src: where in england was william tritton born in?
+ code-mix sentences:
+where इंग्लैंड में विलियम ट्रिटन पैदा हुआ था?
+where england में विलियम ट्रिटन पैदा हुआ था?
+where england में william ट्रिटन पैदा हुआ था?
+where england में william ट्रिटन born हुआ था?
+where england में william ट्रिटन born हुआ was
+where england में william ट्रिटन पैदा हुआ was
+where england में विलियम ट्रिटन born हुआ था?
+where england में विलियम ट्रिटन born हुआ was
+where england में विलियम ट्रिटन पैदा हुआ was
+where इंग्लैंड में william ट्रिटन पैदा हुआ था?
+where इंग्लैंड में william ट्रिटन born हुआ था?
+where इंग्लैंड में william ट्रिटन born हुआ was
+where इंग्लैंड में william ट्रिटन पैदा हुआ was
+where इंग्लैंड में विलियम ट्रिटन born हुआ था?
+where इंग्लैंड में विलियम ट्रिटन born हुआ was
+where इंग्लैंड में विलियम ट्रिटन पैदा हुआ was
+जहां england में विलियम ट्रिटन पैदा हुआ था?
+जहां england में william ट्रिटन पैदा हुआ था?
+जहां england में william ट्रिटन born हुआ था?
+जहां england में william ट्रिटन born हुआ was
+जहां england में william ट्रिटन पैदा हुआ was
+जहां england में विलियम ट्रिटन born हुआ था?
+जहां england में विलियम ट्रिटन born हुआ was
+जहां england में विलियम ट्रिटन पैदा हुआ was
+जहां इंग्लैंड में william ट्रिटन पैदा हुआ था?
+जहां इंग्लैंड में william ट्रिटन born हुआ था?
+जहां इंग्लैंड में william ट्रिटन born हुआ was
+जहां इंग्लैंड में william ट्रिटन पैदा हुआ was
+जहां इंग्लैंड में विलियम ट्रिटन born हुआ था?
+जहां इंग्लैंड में विलियम ट्रिटन born हुआ was
+जहां इंग्लैंड में विलियम ट्रिटन पैदा हुआ was
+
+src: what genre is storm the palace
+ code-mix sentences:
+palace तूफान क्या शैली है
+palace storm क्या शैली है
+palace storm what शैली है
+palace तूफान what शैली है
+महल storm क्या शैली है
+महल storm what शैली है
+महल तूफान what शैली है
+
+src: name a university in lexington
+ code-mix sentences:
+lexington में एक विश्वविद्यालय का नाम दें
+lexington में एक विश्वविद्यालय का name दें
+लेक्सिंगटन में एक विश्वविद्यालय का name दें
