@@ -99,9 +99,10 @@ def generateCodemixSentence(input_file, output_file,column_number=0,base='hi',mi
                     code_mix_sents = codeMixSentence(src_sent,base,mix_lang)
                     flag = False
                 except:
-                    print "Error occured trying in 5 sec"
+                    print "Error occured trying in 1 min"
                     if attempt < THRESHHOLD:
-                        time.sleep(5)
+                        time.sleep(60)
+                        attempt += 1
                         continue
                     else:
                         code_mix_sents = []
