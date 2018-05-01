@@ -1,6 +1,7 @@
 
 import sys
 import spacy
+import time
 from googletrans import Translator
 
 nlp = spacy.load('en')
@@ -92,10 +93,20 @@ def generateCodemixSentence(input_file, output_file,column_number=0,base='hi',mi
             except:
                 continue
             print src_sent
-            code_mix_sents = codeMixSentence(src_sent,base,mix_lang)
+            flag, attempt = True, 0
+            while flag:
+                try:
+                    code_mix_sents = codeMixSentence(src_sent,base,mix_lang)
+                    flag = False
+                except:
+                    print "Error occured trying in 5 sec"
+                    if attempt < THRESHHOLD:
+                        time.sleep(5)
+                        continue
+                    else:
+                        code_mix_sents = []
             if len(code_mix_sents) > 0:
                 writeSentences(output_file,src_sent,code_mix_sents)
-
 
 
 
