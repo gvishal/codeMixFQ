@@ -37,7 +37,10 @@ def codeMixSentence(src_sentence,base,mix_lang):
     '''
     #base_src_sentence = translator.translate(src_sentence, src='en', dest=base).text
     #base_src_sentence = base_src_sentence_trans[0].text
-    tmp_tokens = nlp(unicode(src_sentence))
+    try:
+        tmp_tokens = nlp(unicode(src_sentence))
+    except:
+        return []
     src_tokens = []
     for token in tmp_tokens:
         # Write logic for allowing token to replace in base sentence.
@@ -72,10 +75,14 @@ def generateCodemixSentence(input_file, output_file,column_number=0,base='hi',mi
     with open(input_file, 'r') as fp:
         for line in fp:
             sents = line.split('\t')
-            src_sent = sents[column_number].strip()
+            try:
+                src_sent = sents[column_number].strip()
+            except:
+                continue
             print src_sent
-            code_mix_sents = codeMixSentence(src_sent,base,mix_lang);
-            writeSentences(output_file,src_sent,code_mix_sents)
+            code_mix_sents = codeMixSentence(src_sent,base,mix_lang)
+            if len(code_mix_sents) > 0:
+                writeSentences(output_file,src_sent,code_mix_sents)
 
 
 
