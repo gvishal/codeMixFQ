@@ -24,12 +24,12 @@ def select_replace(sentences,base_sent,sub,rec,st=0):
         tmp = tokens[i]
         tokens[i]=sub[tokens[i]]
         new_sent = " ".join(tokens)
-        print 'new_Sent:',new_sent
+        #print 'new_Sent:',new_sent
         if new_sent not in sentences:
             sentences.append(new_sent)
         select_replace(sentences,new_sent,sub,rec-1,i+1)
         tokens[i] = tmp
-        print 'tokens:',tokens
+        #print 'tokens:',tokens
 
 
 
@@ -53,14 +53,14 @@ def codeMixSentence(src_sentence,base,mix_lang):
     print 'base_token:', base_tokens
     translations = translator.translate(base_tokens, src=base, dest=mix_lang)
     for translation in translations:
-        print(translation.origin, ' -> ', translation.text)
+        #print(translation.origin, ' -> ', translation.text)
         trans_tokens = nlp(unicode(translation.text))
-        print 'translates lemma_',trans_tokens[0].lemma_
+        #print 'translates lemma_',trans_tokens[0].lemma_
         for token in src_tokens:
-            print 'token lemma_',token.lemma_
+            #print 'token lemma_',token.lemma_
             if token.lemma_ == trans_tokens[0].lemma_:
                 sub[translation.origin] = token.text
-                print 'subs:',translation.origin,token.text
+                #print 'subs:',translation.origin,token.text
                 src_tokens.remove(token)
                 break
     final_sent = []
@@ -68,13 +68,13 @@ def codeMixSentence(src_sentence,base,mix_lang):
     return final_sent
 
 def writeSentences(output_file,src_sent,codeMix_sents):
-    print('Unsafe to exit')
+    #print('Unsafe to exit')
     with open(output_file, 'a') as fp:
-        fp.write('\nsrc: '+src_sent.encode('utf-8')+'\n code-mix sentences:\n')
+        fp.write('\nsrc: '+src_sent.encode('utf-8')+'\ncode-mix sentences:\n')
     with open(output_file, 'a') as fp:
         for line in codeMix_sents:
             fp.write(line.encode('utf-8')+'\n')
-    print('Safe to exit')
+    print('record completed')
 
 def generateCodemixSentence(input_file, output_file,column_number=0,base='hi',mix_lang='en'):
     '''CodeMix the input file and write to output file.
@@ -84,9 +84,11 @@ def generateCodemixSentence(input_file, output_file,column_number=0,base='hi',mi
     print input_file,output_file
     with open(output_file, 'w') as fp1:
         fp1.write('')
-
+    counter = [0]
     with open(input_file, 'r') as fp:
         for line in fp:
+            counter[0] += 1
+            print "counter:",counter[0]
             sents = line.split('\t')
             try:
                 src_sent = sents[column_number].strip()
