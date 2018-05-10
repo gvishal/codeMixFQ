@@ -115,22 +115,14 @@ def generateCodemixSentence(input_file, output_file,column_number=0,base='hi',mi
 
 
 def main():
-
-    if len(sys.argv) < 2:
-        print "Usage <input_file> <output_file> <column_number=0>  <base_lang='hi'> <mix_lang='en'>"
+    # you  don't have to mention base and mix languages
+    if len(sys.argv) < 3:
+        print "Usage <input_file> <output_file> <column_number=0>"
         exit(1)
     input_file = sys.argv[1]
     output_file = sys.argv[2]
-    if len(sys.argv) == 2:
-        generateCodemixSentence(input_file, output_file)
-        exit(0)
-    elif len(sys.argv) < 5:
-        print "Usage <input_file> <output_file> <column_number=0>  <base_lang='hi'> <mix_lang='en'>"
-        exit(1)
     column_number = int(sys.argv[3])
-    base = sys.argv[4]
-    mix_lang = sys.argv[5]
-    generateCodemixSentence(input_file, output_file, column_number, base, mix_lang)
+    generateCodemixSentence(input_file, output_file, column_number,'hi', 'en')
 
     # tokenize_vocab(output_file)
 

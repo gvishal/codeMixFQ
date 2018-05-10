@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eaba369-479e-4454-b511-93d3b8fda187" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeMix.py" afterPath="$PROJECT_DIR$/CodeMix_Hindi-English.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeMix2.py" afterPath="$PROJECT_DIR$/Codemix-English-Hindi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Output/simplequestions.txt_test_codeMix_en_base" afterPath="$PROJECT_DIR$/Output/simplequestions.txt_test_codeMix_en_base" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RDRPOSTagger" afterPath="$PROJECT_DIR$/RDRPOSTagger" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeMix.py" afterPath="$PROJECT_DIR$/CodeMix.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeMix2.py" afterPath="$PROJECT_DIR$/CodeMix2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Output/simplequestions.txt_test_codeMix_hi_base" afterPath="$PROJECT_DIR$/Output/simplequestions.txt_test_codeMix_hi_base" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CodeMix.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeMix.py">
+      <file leaf-file-name="CodeMix_Hindi-English.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeMix_Hindi-English.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="72" column="55" lean-forward="true" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+            <state relative-caret-position="464">
+              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
               <folding>
                 <element signature="e#1#11#0" expanded="true" />
               </folding>
@@ -41,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CodeMix2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeMix2.py">
+      <file leaf-file-name="Codemix-English-Hindi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Codemix-English-Hindi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="61" column="55" lean-forward="false" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
+            <state relative-caret-position="536">
+              <caret line="107" column="55" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="55" />
               <folding>
                 <element signature="e#1#11#0" expanded="true" />
               </folding>
@@ -102,8 +103,11 @@
         <option value="$PROJECT_DIR$/CodeMix,py.py" />
         <option value="$PROJECT_DIR$/Data/simplequestions.txt_test" />
         <option value="$PROJECT_DIR$/Codemix2.py" />
-        <option value="$PROJECT_DIR$/CodeMix2.py" />
         <option value="$PROJECT_DIR$/CodeMix.py" />
+        <option value="$PROJECT_DIR$/CodeMix_Eng-Hindi.py" />
+        <option value="$PROJECT_DIR$/CodeMix2.py" />
+        <option value="$PROJECT_DIR$/Codemix-English-Hindi.py" />
+        <option value="$PROJECT_DIR$/CodeMix_Hindi-English.py" />
       </list>
     </option>
   </component>
@@ -114,9 +118,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
+    <option name="y" value="27" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -133,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,12 +155,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,8 +188,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -236,7 +240,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeMix2.py">
+    <entry file="file://$PROJECT_DIR$/CodeMix_Hindi-English.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="55" lean-forward="true" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/simpleques_translations">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/simplequestions.txt_dev">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/simplequestions.txt_test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="68" lean-forward="false" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codemix-English-Hindi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="61" column="55" lean-forward="false" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Codemix-English-Hindi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="44" />
@@ -270,7 +328,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeMix.py">
+    <entry file="file://$PROJECT_DIR$/CodeMix_Hindi-English.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
@@ -324,20 +382,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeMix.py">
+    <entry file="file://$PROJECT_DIR$/Codemix-English-Hindi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="72" column="55" lean-forward="true" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+        <state relative-caret-position="536">
+          <caret line="107" column="55" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="55" />
           <folding>
             <element signature="e#1#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeMix2.py">
+    <entry file="file://$PROJECT_DIR$/CodeMix_Hindi-English.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="61" column="55" lean-forward="false" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
+        <state relative-caret-position="464">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
           <folding>
             <element signature="e#1#11#0" expanded="true" />
           </folding>
